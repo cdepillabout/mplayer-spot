@@ -1,6 +1,6 @@
 name:                mplayer-spot
 version:             0.1.0.0
-synopsis:            Save your spot when watching movies with @mplayer@.
+synopsis:            Save your spot when watching movies with mplayer.
 description:         Please see <https://github.com/cdepillabout/mplayer-spot#readme README.md>.
 homepage:            https://github.com/cdepillabout/mplayer-spot
 license:             BSD3
