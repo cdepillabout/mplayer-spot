@@ -20,7 +20,7 @@ $ mplayer-spot Dumb-and-Dumber.mp4
 
 This plays the movie just like `mplayer`.
 
-However, if you exit part-way through the movie by pressing `q`, `mplayer-spot`
+However, if you exit part-way through the movie by pressing <kbd>q</kbd>, `mplayer-spot`
 saves your current location.  Next time you play the same file, `mplayer-spot`
 looks up how far into the movie you watched, and starts playing from that
 position.
